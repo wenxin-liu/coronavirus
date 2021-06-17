@@ -1,0 +1,21 @@
+html, body {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  font-family: arial;
+  font-size: 60px;
+}
+
+p {
+  margin: 0;
+}
+
+section {
+  height: 100%;
+  width: 100%;
+}
+
+.first {
+    color: blue;
+}
