@@ -10,16 +10,21 @@
 </head>
 
 <body>
-  <section class="first">
-    <p id="yesterday"></p>
+  <div class="container">
+    <section class="first">
+      yesterday
+      <BR /><BR />
+      <p id="yesterday"></p>
+    </section>
+    <section class="second">
+      2 days ago
+      <p id="dayBeforeYesterday"></p>
+    </section>
+    <section class="third">
+      3 days ago
+      <p id="dayDayBeforeYesterday"></p>
+    </section>
   </section>
-  <section class="second">
-    <p id="dayBeforeYesterday"></p>
-  </section>
-  <section class="third">
-    <p id="dayDayBeforeYesterday"></p>
-  </section>
-
   <!-- Import axios library -->
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
   <script src="api.js"></script>
