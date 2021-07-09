@@ -46,7 +46,7 @@ section {
 }
 
 .third {
-  height: 100vh;
+  height: 93vh;
   width: 100vw;
   color: #3e00cf;
   background: #F4EEFF;
@@ -60,4 +60,15 @@ section {
   height: 100vh;
   overflow-y: scroll;
   scroll-snap-type: y mandatory;
+}
+
+footer {
+  height: 7vh;
+  width: 100vw;
+  background: #F4EEFF;
+}
+
+footer a, footer a:hover {
+  color: #000000;
+  text-decoration: none;
 }
