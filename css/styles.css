@@ -8,26 +8,26 @@ html, body {
 
 p {
   margin: 1%;
-  background: red;
   align-items: center;
-  font-size: 60px;
+  font-size: 80px;
 }
 
 section {
-  font-size: 20px;
+  font-size: 25px;
   scroll-snap-align: center;
 }
 
 .navbar-custom {
   height: 7vh;
   padding: 0 1%;
+  font-size: 20px;
 }
 
 .first {
   height: 93vh;
   width: 100vw;
-  color: #0000FF;
   background: #FFF5FD;
+  color: #0021CF;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -37,8 +37,8 @@ section {
 .second {
   height: 100vh;
   width: 100vw;
-  color: #ff00cc;
-  background: #f0f3ff;
+  color: #F803A4;
+  background: #F1EEFF;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -46,10 +46,33 @@ section {
 }
 
 .third {
+  height: 100vh;
+  width: 100vw;
+  color: #00CFB6;
+  background: #F0FFF6;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.fourth {
+  background: #00CFB6;
+  color: #F0FFF6;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.fifth {
+  /* background: #eefff2; */
+  background: #3E00CF;
+  color: #F4EEFF;
   height: 93vh;
   width: 100vw;
-  color: #3e00cf;
-  background: #F4EEFF;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -63,12 +86,13 @@ section {
 }
 
 footer {
+  font-size: 20px;
   height: 7vh;
   width: 100vw;
-  background: #F4EEFF;
+  background: #3E00CF;
 }
 
 footer a, footer a:hover {
-  color: #000000;
+  color: #FFFFFF;
   text-decoration: none;
 }
