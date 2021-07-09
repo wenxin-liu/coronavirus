@@ -6,17 +6,23 @@
   <title>Coronavirus daily update</title>
 
   <!-- Import css styles -->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="css/styles.css">
 </head>
 
 <body>
   <section class="first">
-    <p id="covid"></p>
+    <p id="yesterday"></p>
+  </section>
+  <section class="second">
+    <p id="dayBeforeYesterday"></p>
+  </section>
+  <section class="third">
+    <p id="dayDayBeforeYesterday"></p>
   </section>
 
   <!-- Import axios library -->
   <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-  <script src="request.js"></script>
+  <script src="api.js"></script>
 </body>
 
 </html>

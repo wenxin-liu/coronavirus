@@ -16,6 +16,18 @@ section {
   width: 100%;
 }
 
+
 .first {
-    color: blue;
+  color: blue;
+  background: pink;
+}
+
+.second {
+  color: pink;
+  background: yellow;
+}
+
+.third {
+  color: green;
+  background: lightblue;
 }
