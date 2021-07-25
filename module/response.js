@@ -55,6 +55,6 @@ function deciderLogic(element, json) {
       document.getElementById(element[1]).innerHTML = "Just... just stay at home";
       break;
     default:
-      document.getElementById(element[1]).innerHTML = "OK";
+      document.getElementById(element[1]).innerHTML = "As good as it can be";
   }
 }
