@@ -4,6 +4,6 @@ Get an update on the COVID-19 situation in England without the scary numbers. Se
 
 https://wenxin-liu.github.io/coronavirus
 
-<br><br>
+<br>
 
 ![home page screenshot](docs/coronavirus-daily-update-home-page.png)
