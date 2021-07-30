@@ -4,7 +4,9 @@ function decider(json) {
     [1, 'twoDaysAgo'],
     [2, 'threeDaysAgo'],
     [3, 'fourDaysAgo'],
-    [4, 'fiveDaysAgo']
+    [4, 'fiveDaysAgo'],
+    [5, 'sixDaysAgo'],
+    [6, 'sevenDaysAgo']
   ]
 
   dates.forEach(element => deciderLogic(element, json))
