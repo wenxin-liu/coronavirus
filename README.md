@@ -6,4 +6,6 @@ https://wenxin-liu.github.io/coronavirus
 
 <br>
 
-![home page screenshot](docs/coronavirus-daily-update-home-page.png)
+![home page screenshot first page](docs/homepage-1.png)
+
+![home page screenshot third page](docs/homepage-3.png)
