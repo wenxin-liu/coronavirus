@@ -18,7 +18,6 @@ section {
 }
 
 .navbar-custom {
-  background: #FFF5FD;
   height: 7vh;
   padding: 0 1%;
   font-size: 20px;
@@ -29,7 +28,7 @@ section {
 }
 
 .first {
-  height: 93vh;
+  height: 100vh;
   width: 100vw;
   background: #FFF5FD;
   color: #0021CF;
@@ -107,7 +106,7 @@ section {
 }
 
 .faq {
-  height: 93vh;
+  height: 100vh;
   width: 100vw;
   font-size: 20px;
   line-height: 180%;
