@@ -1,6 +1,6 @@
 # Coronavirus daily update
 
-Get an update on the COVID-19 situation in England without the scary numbers. See the status of the last 5 days.
+Get an update on the COVID-19 situation in England without the scary numbers. See the status of the last 7 days.
 
 https://wenxin-liu.github.io/coronavirus
 
