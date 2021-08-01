@@ -20,5 +20,5 @@ function scrollFunction() {
 mybutton.addEventListener("click", backToTop);
 
 function backToTop() {
-  container.scrollTop = 0;
+  container.scrollTo({top: 0, behavior: 'smooth'});
 }
